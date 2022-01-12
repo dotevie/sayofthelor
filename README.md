@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Sabine! (she/her) 👋
 
+I'll update this readme later with some more stuff.
 <!--
 **sayofthelor/sayofthelor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
