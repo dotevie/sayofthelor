@@ -1,4 +1,4 @@
-### Hi there, I'm Sabine! (she/her) 👋
+### certified internet bean! (she/her) 👋
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sayofthelor&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
