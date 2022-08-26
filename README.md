@@ -10,7 +10,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sayofthelor&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayofthelor&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayofthelor&theme=dark &layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **sayofthelor/sayofthelor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
