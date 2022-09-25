@@ -4,7 +4,7 @@
 
 ### gay points: 38.97
 
-### known languages: haxe, js, python
+### known languages: haxe, python. js (kinda), c# (kinda)
 
 ### currently developing: lore engine, retro mania, vs. dude, vs. harlow, crystal fragments
 
