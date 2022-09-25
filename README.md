@@ -1,8 +1,8 @@
 ## welcome to the epic github!
 
-### pronouns: she/they
+### pronouns: she/her
 
-### gay points: 37.64
+### gay points: 38.97
 
 ### known languages: haxe, js, python
 
