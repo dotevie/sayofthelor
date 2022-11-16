@@ -1,6 +1,6 @@
 ## welcome to the epic github!
 
-### pronouns: she/her
+### pronouns: she/they
 
 ### gay points: 38.97
 
