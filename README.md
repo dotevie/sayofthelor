@@ -1,27 +1,14 @@
-## welcome to the epic github!
+## welcome to my github!
 
 ### pronouns: she/they
 
 ### gay points: 38.97
 
-### known languages: haxe, python. js (kinda), c# (kinda)
+### known languages: haxe, python. js (kinda), c#
 
-### currently developing: lore engine, retro mania, vs. dude, vs. harlow, crystal fragments
+### currently developing: lore engine, retro mania, crystal fragments, valve funkin, some other stuff
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sayofthelor&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayofthelor&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**sayofthelor/sayofthelor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayofthelor&theme=dark&layout=compact&hide=c)](https://github.com/anuraghazra/github-readme-stats)
+<!-- i hid C because i don't really code in it and like 99% of it just comes from libvlc deps in old psych engine repos -->
