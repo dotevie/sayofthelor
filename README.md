@@ -1,10 +1,6 @@
 ## welcome to my github!
 
-### pronouns: she/they
-
-### gay points: 38.97
-
-### known languages: haxe, python. js (kinda), c#
+### known languages: haxe, python. javascript (and typescript), c#, svelte (sorta)
 
 ### currently developing: lore engine, retro mania, crystal fragments, valve funkin, some other stuff
 
