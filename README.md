@@ -1,6 +1,6 @@
 ## welcome to my github!
 
-### known languages: haxe, python. javascript (and typescript), c#, svelte (sorta)
+### known languages/frameworks: haxe, python. javascript, typescript c#, svelte, react
 
 ### currently developing: lore engine, retro mania, crystal fragments, valve funkin, some other stuff
 
