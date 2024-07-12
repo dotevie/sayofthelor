@@ -3,6 +3,7 @@
 <h3 align="center">known languages/frameworks: haxe, python. javascript, typescript c#, svelte, react</h3>
 
 <h3 align="center">currently developing: lore engine 2
+  
 <br />
 <div align="center">
   
