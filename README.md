@@ -1,11 +1,11 @@
-<h1 align="center">welcome to my github!</h1>
+<h1 align="right">hi everyone this is my github</h1>
 
-<h3 align="center">known languages/frameworks: haxe, python. javascript, typescript c#, svelte, react</h3>
+<h3 align="right">known languages: Haxe, Java(/Type)Script, C#, Java</h3>
 
-<h3 align="center">currently developing: lore engine 2
+<h3 align="right">visit my website at <a href="https://sayofthelor.us">sayofthelor.us</a></h3>
   
 <br />
-<div align="center">
+<div align="right">
   
   [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/sayofthelor)
   <br />
